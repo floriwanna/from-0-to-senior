@@ -1,2 +1,5 @@
 # About
-This secction is about what the recluiter or intervieer asks you when they ask about if you use **clean code**.
+This is to know howp to describe or learn the "good practices" of writing code. There is a famous book, with the same name of the file, that supposedly describe the rules of this. But the real rule is to write code that is understandable for another person. 
+
+If you read that book, please don't take it literally and use it as a tool that could help you, not as a bible. 
+Let's continue with this :)
